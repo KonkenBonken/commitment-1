@@ -354,6 +354,7 @@ This is where it all begins...
 This is why git rebase is a horrible horrible thing.
 This is why the cat shouldn't sit on my keyboard.
 This really should not take 19 minutes to build.
+This shouldn't work. But it did...
 This should work until december 2013.
 This solves it.
 This was the most stupid bug in the world, fixed in the smartest way ever
